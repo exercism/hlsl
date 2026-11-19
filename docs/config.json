@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "uuid": "5216e377-fe1d-4e5e-a88f-2ba2d776c20e",
+      "slug": "installation",
+      "path": "docs/INSTALLATION.md",
+      "title": "Installing HLSL locally",
+      "blurb": "Learn how to install HLSL locally to solve Exercism's exercises on your own machine"
+    },
+    {
+      "uuid": "856860c0-dccb-4656-9964-22832a4069b5",
+      "slug": "learning",
+      "path": "docs/LEARNING.md",
+      "title": "How to learn HLSL",
+      "blurb": "An overview of how to get started from scratch with HLSL"
+    },
+    {
+      "uuid": "72b2af8d-d105-4746-813f-32dc6146c9a6",
+      "slug": "tests",
+      "path": "docs/TESTS.md",
+      "title": "Testing on the HLSL track",
+      "blurb": "Learn how to test your HLSL exercises on Exercism"
+    },
+    {
+      "uuid": "c4073a1a-2dc5-4f21-aaac-643035f59e1e",
+      "slug": "resources",
+      "path": "docs/RESOURCES.md",
+      "title": "Useful HLSL resources",
+      "blurb": "A collection of useful resources to help you master HLSL"
+    }
+  ]
+}
